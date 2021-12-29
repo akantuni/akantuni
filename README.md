@@ -7,7 +7,7 @@ With 4+ years of programming experience I have acquired the following skills:
 #### Projects:
 
 - Amazon Checkout Engine
-- 500+ Programming problems solved
+- 500+ programming problems solved
 - Quora Data Scraper
 - Andriod game automation
 - Restock and new-drop monitoring foftware for 10 online retail stores each with 1M+ daily users
