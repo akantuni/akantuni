@@ -15,7 +15,7 @@ I'm Alexander, a Full-stack developer from <img src="https://cdn-icons-png.flati
 
 ### Projects
 
-- 500+ programming problems solved on Codeforces, Kattis, and Leetcode
+- 500+ programming problems solved on [Codeforces](https://github.com/akantuni/Codeforces), [Kattis](https://github.com/akantuni/Kattis), [LeetCode](https://github.com/akantuni/LeetCode), etc.
 - Quora Data Scraper
 - Andriod game automation
 - Restock and new-drop monitoring software for 10 online retail stores each with 1M+ daily users
