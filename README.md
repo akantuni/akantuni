@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?	1531849430" width="30"/>Hey! Nice to see you.
+# Hey! Nice to see you.
 
 Welcome to my page!
 I'm Alexander, a Full-stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="12"/> **Washington DC, United States**.
