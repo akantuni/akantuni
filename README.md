@@ -10,7 +10,7 @@ I'm Alexander, a Full-stack developer from <img src="https://cdn-icons-png.flati
 ### About Me
 
 - B.S. Computer Science @ University of Maryland, College Park (2026)
-- Top Rated Full-stack Software Developer @ Upwork [(Hire Me)](https://www.upwork.com/freelancers/~011adf5137ee79cb10)
+- "Top Rated Plus" Full-stack Software Developer @ Upwork [(Hire Me)](https://www.upwork.com/freelancers/~011adf5137ee79cb10)
 - Founder @ [**ABCD API**](https://abcd.rest) - A RESTful API that automates the checkout process for Amazon products.
 
 ### Projects
