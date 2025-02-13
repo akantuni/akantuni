@@ -42,4 +42,6 @@ I'm Alexander, a Full-stack developer from <img src="https://cdn-icons-png.flati
 
 ### Links
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stackoverflow Logo" height="50">](https://stackoverflow.com/users/5605564/kantuni)
+[<img alt="Stackoverflow Logo" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height="48">](https://stackoverflow.com/users/5605564/kantuni)
+[<img alt="Standard Resume Logo" src="https://standardresume.co/icons/favicon-192.png" height="48">](https://rsm.io/kantuni)
+
